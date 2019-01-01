@@ -1,0 +1,19 @@
+routine base on:
+   *集体编程智慧
+   *机器之心教程（http://mp.weixin.qq.com/s__biz=MzA3MzI4MjgzMw==&mid=2650744560&idx=3&sn=39248755937d36f3d7195bc86897e6b6&chksm=871ae28eb06d6b98580d679937370d9564b164f333675225c813719e03841821d7b04feae37e&mpshare=1&scene=23&srcid=01016MWoIS33p3tR2jYwPY5L#rd）
+   
+basic concept
+
+分类
+*贝叶斯分类器
+*决策树分类器
+*svm
+*神经网络
+
+无监督
+*KNN
+*K-近邻聚类
+*多维缩放
+*非负矩阵因式分解
+
+优化
